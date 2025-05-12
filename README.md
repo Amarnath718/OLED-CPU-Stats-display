@@ -6,3 +6,5 @@ Using An I2C 0.96 OLED Display and Arduino UNO the CPU stats like CPU usage, tem
 * Arduino UNO
 * I2C 0.96 in OLED Display
 * Jumper wires
+* Case for OLED display (Optional)
+  
